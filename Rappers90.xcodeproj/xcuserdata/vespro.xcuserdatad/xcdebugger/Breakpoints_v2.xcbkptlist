@@ -1,0 +1,560 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "57FEC5E1-E5CE-4378-9600-A5FA383CCC42"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A8AA1E70-A113-4EA7-9A70-E06F5C3AB587"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Rappers90/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "588EE761-377C-4E3C-A971-20DE0F57B94F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Rappers90/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "46"
+            endingLineNumber = "46"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "630CB9C4-AACB-4F26-8285-F4424ADCF14C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Rappers90/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "630CB9C4-AACB-4F26-8285-F4424ADCF14C - d4694d50c4a7fb0a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Spacer, &lt;&lt;opaque return type of SwiftUI.View.ignoresSafeArea(_: SwiftUI.SafeAreaRegions, edges: SwiftUI.Edge.Set) -&gt; some&gt;&gt;.0, SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, Rappers90.BodyLoginView)&gt;&gt;)&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.navigationBarHidden(Swift.Bool) -&gt; some&gt;&gt;.0 in Rappers90.ContentView.body.getter : some"
+                  moduleName = "Rappers90"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vespro/Documents/Curso%20Swift/Rappers90/Rappers90/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "116">
+               </Location>
+               <Location
+                  uuid = "630CB9C4-AACB-4F26-8285-F4424ADCF14C - dd9bb05630166037"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Spacer, &lt;&lt;opaque return type of SwiftUI.View.ignoresSafeArea(_: SwiftUI.SafeAreaRegions, edges: SwiftUI.Edge.Set) -&gt; some&gt;&gt;.0, SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, Rappers90.BodyLoginView)&gt;&gt;)&gt; in closure #1 () -&gt; SwiftUI.ZStack&lt;SwiftUI.TupleView&lt;(SwiftUI.Spacer, &lt;&lt;opaque return type of SwiftUI.View.ignoresSafeArea(_: SwiftUI.SafeAreaRegions, edges: SwiftUI.Edge.Set) -&gt; some&gt;&gt;.0, SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, Rappers90.BodyLoginView)&gt;&gt;)&gt;&gt; in Rappers90.ContentView.body.getter : some"
+                  moduleName = "Rappers90"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vespro/Documents/Curso%20Swift/Rappers90/Rappers90/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "116">
+               </Location>
+               <Location
+                  uuid = "630CB9C4-AACB-4F26-8285-F4424ADCF14C - f94b18d942d63aa4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Spacer, &lt;&lt;opaque return type of SwiftUI.View.ignoresSafeArea(_: SwiftUI.SafeAreaRegions, edges: SwiftUI.Edge.Set) -&gt; some&gt;&gt;.0, SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, Rappers90.BodyLoginView)&gt;&gt;)&gt; in Rappers90.ContentView.body.getter : some"
+                  moduleName = "Rappers90"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vespro/Documents/Curso%20Swift/Rappers90/Rappers90/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "116">
+               </Location>
+               <Location
+                  uuid = "630CB9C4-AACB-4F26-8285-F4424ADCF14C - 604327f64fbe66b0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, Rappers90.BodyLoginView)&gt;&gt; in closure #1 () -&gt; SwiftUI.ZStack&lt;SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, Rappers90.BodyLoginView)&gt;&gt;&gt; in Rappers90.ContentView.body.getter : some"
+                  moduleName = "Rappers90"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vespro/Documents/Curso%20Swift/Rappers90/Rappers90/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "68">
+               </Location>
+               <Location
+                  uuid = "630CB9C4-AACB-4F26-8285-F4424ADCF14C - 20c6db70a297a22b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, Rappers90.BodyLoginView)&gt; in closure #1 () -&gt; SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, Rappers90.BodyLoginView)&gt;&gt; in closure #1 () -&gt; SwiftUI.ZStack&lt;SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, Rappers90.BodyLoginView)&gt;&gt;&gt; in Rappers90.ContentView.body.getter : some"
+                  moduleName = "Rappers90"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vespro/Documents/Curso%20Swift/Rappers90/Rappers90/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "140">
+               </Location>
+               <Location
+                  uuid = "630CB9C4-AACB-4F26-8285-F4424ADCF14C - d48fdc7e696f2962"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; Rappers90.BodyLoginView in closure #1 () -&gt; SwiftUI.ZStack&lt;Rappers90.BodyLoginView&gt; in Rappers90.ContentView.body.getter : some"
+                  moduleName = "Rappers90"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vespro/Documents/Curso%20Swift/Rappers90/Rappers90/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "48">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "ADE3CE45-895B-47D9-8851-26BCBC6E8050"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Rappers90/Rappers90App.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "4"
+            endingLineNumber = "4"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3F478DC7-4146-41A8-9F84-08F835EE9882"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Rappers90/HomeView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "3F478DC7-4146-41A8-9F84-08F835EE9882 - 524aed3b9b150172"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "property wrapper backing initializer of Rappers90.HomeView.isPlayerActive : Swift.Bool"
+                  moduleName = "Rappers90"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vespro/Documents/Curso%20Swift/Rappers90/Rappers90/HomeView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  uuid = "3F478DC7-4146-41A8-9F84-08F835EE9882 - 988394b12b3e7f98"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Rappers90.HomeView.isPlayerActive.getter : Swift.Bool"
+                  moduleName = "Rappers90"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vespro/Documents/Curso%20Swift/Rappers90/Rappers90/HomeView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "156">
+               </Location>
+               <Location
+                  uuid = "3F478DC7-4146-41A8-9F84-08F835EE9882 - 5c0b19b0f0ed57a4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Rappers90.HomeView.isPlayerActive.setter : Swift.Bool"
+                  moduleName = "Rappers90"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vespro/Documents/Curso%20Swift/Rappers90/Rappers90/HomeView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "144">
+               </Location>
+               <Location
+                  uuid = "3F478DC7-4146-41A8-9F84-08F835EE9882 - 9cc0b9654b3e5595"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Rappers90.HomeView.isPlayerActive.modify : Swift.Bool"
+                  moduleName = "Rappers90"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vespro/Documents/Curso%20Swift/Rappers90/Rappers90/HomeView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "188">
+               </Location>
+               <Location
+                  uuid = "3F478DC7-4146-41A8-9F84-08F835EE9882 - 598d9fb4002a61a4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Rappers90.HomeView.isPlayerActive.modify : Swift.Bool with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Rappers90"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vespro/Documents/Curso%20Swift/Rappers90/Rappers90/HomeView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "3F478DC7-4146-41A8-9F84-08F835EE9882 - 194fc9f4b22090dc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Rappers90.HomeView.$isPlayerActive.getter : SwiftUI.Binding&lt;Swift.Bool&gt;"
+                  moduleName = "Rappers90"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vespro/Documents/Curso%20Swift/Rappers90/Rappers90/HomeView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "180">
+               </Location>
+               <Location
+                  uuid = "3F478DC7-4146-41A8-9F84-08F835EE9882 - 722c7020868f0a3f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Rappers90.HomeView.init() -&gt; Rappers90.HomeView"
+                  moduleName = "Rappers90"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vespro/Documents/Curso%20Swift/Rappers90/Rappers90/HomeView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "264">
+               </Location>
+               <Location
+                  uuid = "3F478DC7-4146-41A8-9F84-08F835EE9882 - 82c430e985ccb6a1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Rappers90.HomeView.body.getter : some"
+                  moduleName = "Rappers90"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vespro/Documents/Curso%20Swift/Rappers90/Rappers90/HomeView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "552">
+               </Location>
+               <Location
+                  uuid = "3F478DC7-4146-41A8-9F84-08F835EE9882 - 82c430e985ccb640"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Rappers90.HomeView.body.getter : some"
+                  moduleName = "Rappers90"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vespro/Documents/Curso%20Swift/Rappers90/Rappers90/HomeView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "552">
+               </Location>
+               <Location
+                  uuid = "3F478DC7-4146-41A8-9F84-08F835EE9882 - 82c430e985ccb6a1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Rappers90.HomeView.body.getter : some"
+                  moduleName = "Rappers90"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vespro/Documents/Curso%20Swift/Rappers90/Rappers90/HomeView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "192">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "ABFD81A8-87D5-4124-B30D-9F9DE2334CF2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Rappers90/RappersModule/View/RappersView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "RappersView"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "ABFD81A8-87D5-4124-B30D-9F9DE2334CF2 - 38e4589b81c8960"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "property wrapper backing initializer of Rappers90.RappersView.name : Swift.String"
+                  moduleName = "Rappers90"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vespro/Documents/Curso%20Swift/Rappers90/Rappers90/RappersModule/View/RappersView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "ABFD81A8-87D5-4124-B30D-9F9DE2334CF2 - 6df80084f27a9516"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Rappers90.RappersView.name.getter : Swift.String"
+                  moduleName = "Rappers90"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vespro/Documents/Curso%20Swift/Rappers90/Rappers90/RappersModule/View/RappersView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "200">
+               </Location>
+               <Location
+                  uuid = "ABFD81A8-87D5-4124-B30D-9F9DE2334CF2 - 8ea764856b77e51a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Rappers90.RappersView.name.setter : Swift.String"
+                  moduleName = "Rappers90"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vespro/Documents/Curso%20Swift/Rappers90/Rappers90/RappersModule/View/RappersView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "172">
+               </Location>
+               <Location
+                  uuid = "ABFD81A8-87D5-4124-B30D-9F9DE2334CF2 - 5ae7e886c088c90b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Rappers90.RappersView.name.modify : Swift.String"
+                  moduleName = "Rappers90"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vespro/Documents/Curso%20Swift/Rappers90/Rappers90/RappersModule/View/RappersView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "224">
+               </Location>
+               <Location
+                  uuid = "ABFD81A8-87D5-4124-B30D-9F9DE2334CF2 - 3db76e9659441b1a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Rappers90.RappersView.name.modify : Swift.String with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Rappers90"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vespro/Documents/Curso%20Swift/Rappers90/Rappers90/RappersModule/View/RappersView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "ABFD81A8-87D5-4124-B30D-9F9DE2334CF2 - a6fcccb5926b21a2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Rappers90.RappersView.$name.getter : SwiftUI.Binding&lt;Swift.String&gt;"
+                  moduleName = "Rappers90"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vespro/Documents/Curso%20Swift/Rappers90/Rappers90/RappersModule/View/RappersView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "224">
+               </Location>
+               <Location
+                  uuid = "ABFD81A8-87D5-4124-B30D-9F9DE2334CF2 - 2e5947e3c237b22d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Rappers90.RappersView.init() -&gt; Rappers90.RappersView"
+                  moduleName = "Rappers90"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vespro/Documents/Curso%20Swift/Rappers90/Rappers90/RappersModule/View/RappersView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "308">
+               </Location>
+               <Location
+                  uuid = "ABFD81A8-87D5-4124-B30D-9F9DE2334CF2 - 85721d243ff59a58"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "property wrapper backing initializer of Rappers90.RappersView.rappeersIsActive : Swift.Bool"
+                  moduleName = "Rappers90"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vespro/Documents/Curso%20Swift/Rappers90/Rappers90/RappersModule/View/RappersView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  uuid = "ABFD81A8-87D5-4124-B30D-9F9DE2334CF2 - b8ef960a3629010e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Rappers90.RappersView.rappeersIsActive.getter : Swift.Bool"
+                  moduleName = "Rappers90"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vespro/Documents/Curso%20Swift/Rappers90/Rappers90/RappersModule/View/RappersView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "156">
+               </Location>
+               <Location
+                  uuid = "ABFD81A8-87D5-4124-B30D-9F9DE2334CF2 - 28bbd14cbd5e7912"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Rappers90.RappersView.rappeersIsActive.setter : Swift.Bool"
+                  moduleName = "Rappers90"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vespro/Documents/Curso%20Swift/Rappers90/Rappers90/RappersModule/View/RappersView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "144">
+               </Location>
+               <Location
+                  uuid = "ABFD81A8-87D5-4124-B30D-9F9DE2334CF2 - 29aec8d99a897f03"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Rappers90.RappersView.rappeersIsActive.modify : Swift.Bool"
+                  moduleName = "Rappers90"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vespro/Documents/Curso%20Swift/Rappers90/Rappers90/RappersModule/View/RappersView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "188">
+               </Location>
+               <Location
+                  uuid = "ABFD81A8-87D5-4124-B30D-9F9DE2334CF2 - d4898f691f584d12"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Rappers90.RappersView.rappeersIsActive.modify : Swift.Bool with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Rappers90"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vespro/Documents/Curso%20Swift/Rappers90/Rappers90/RappersModule/View/RappersView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "ABFD81A8-87D5-4124-B30D-9F9DE2334CF2 - 593bc28c703c17ca"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Rappers90.RappersView.$rappeersIsActive.getter : SwiftUI.Binding&lt;Swift.Bool&gt;"
+                  moduleName = "Rappers90"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vespro/Documents/Curso%20Swift/Rappers90/Rappers90/RappersModule/View/RappersView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "180">
+               </Location>
+               <Location
+                  uuid = "ABFD81A8-87D5-4124-B30D-9F9DE2334CF2 - 2e5947e3c237b22d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Rappers90.RappersView.init() -&gt; Rappers90.RappersView"
+                  moduleName = "Rappers90"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vespro/Documents/Curso%20Swift/Rappers90/Rappers90/RappersModule/View/RappersView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "272">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
